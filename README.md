@@ -32,7 +32,7 @@ with a deep passion for the world of technology and its constant evolution day b
 
 <h2 align="center">🤝 Cᴏɴɴᴇᴄᴛ Wɪᴛʜ Mᴇ 🤝 </h2>
 <div align="center">
- <a href="https://www.linkedin.com/in/edwin-l%C3%B3pez-705a4436a?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3B1s0jyWKUSJa9%2Fw88zQlh1w%3D%3D)" target="_blank">
+ <a href="https://www.linkedin.com/in/edwin-l%C3%B3pez-705a4436a?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3ByQdz0MoUSdec3vp6R93ANA%3D%3D" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
   
