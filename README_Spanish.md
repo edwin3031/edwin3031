@@ -34,9 +34,9 @@ con una gran pasión por el mundo de la tecnología y su constante evolución d�
 
 <h2 align="center">🤝 Cᴏɴtáctame 🤝 </h2>
 <div align="center">
- <!--<a href="profile_link" target="_blank">
+ <a href="https://www.linkedin.com/in/edwin-l%C3%B3pez-705a4436a?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3ByQdz0MoUSdec3vp6R93ANA%3D%3D" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>-->
+</a>
   
 <a href="mailto:ledwin770@gmail.com" target="_blank">
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt=ledwin770@gmail.com mail style="margin-bottom: 5px;" />
